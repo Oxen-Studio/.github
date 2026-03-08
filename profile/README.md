@@ -8,7 +8,7 @@ We're engaged in non-slop ethics and humbly defending indie values against **v$b
 
 Take a look at our repositories and give them a try. We’re always on the lookout for feedback on Reddit [u/0xMnlith](https://www.reddit.com/user/0xMnlith/) or [u/dwcq](https://www.reddit.com/user/dwcq/).
 
-- [Resonance](https://github.com/Oxen-Studio/Resonance) Audio Player (Y2K inspired)
+- [Resonance](https://github.com/Oxen-Studio/Resonance) Music Player (Y2K inspired)
 
 More products are currently in active development…
 
