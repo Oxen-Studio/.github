@@ -18,4 +18,4 @@ More products are currently in active development…
 ###### © 2026 Oxen Studio
 
 <br>
-<img width="1500" height="72" alt="" src="https://github.com/user-attachments/assets/fcb0aad4-066c-496f-b0f6-9d8d46aa1636" />
+<img width="1500" height="126" alt="" src="https://github.com/user-attachments/assets/98079741-bac2-423f-8140-79fc10ba42e8" />
