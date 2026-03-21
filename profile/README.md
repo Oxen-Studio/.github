@@ -13,7 +13,7 @@ Take a look at our repositories and give them a try. We’re always on the looko
 More products are currently in active development…
 
 >[!NOTE]
-> We value your feedback and carefully read every message, commit and issue. We’ll definitely reply to each one.
+> We value your feedback and read every **message**, **commit**, and **issue** carefully. We'll reply to each one.
 
 ###### © Oxen Studio
 
