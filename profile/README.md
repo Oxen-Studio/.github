@@ -2,7 +2,7 @@
 
 ### 
 
-We're engaged in non-slop ethics and humbly defending indie creative work. Given the decline in web development excellence, we genuinely believe in supporting this passionate community.
+We're engaged in non-slop ethics. Given the decline in web development excellence, we genuinely believe in supporting this passionate community.
 
 ## Products
 
